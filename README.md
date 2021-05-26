@@ -86,9 +86,16 @@ To download the released dataset, please:
 
 Kindly remind: using the proposed dataset, please cite:
 
-`Ming Cheng, Kunjing Cai, and Ming Li. "RWF-2000: An Open Large Scale Video Database for Violence Detection." arXiv preprint arXiv:1911.05913 (2019).`
-
-
+```
+@inproceedings{cheng2021rwf,
+  title={RWF-2000: an open large scale video database for violence detection},
+  author={Cheng, Ming and Cai, Kunjing and Li, Ming},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={4183--4190},
+  year={2021},
+  organization={IEEE}
+}
+```
 
 ### Note
 
