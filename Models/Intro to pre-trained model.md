@@ -4,7 +4,7 @@
 
 #### Step 1
 
-To preprocess the original video dataset to .npy format containing RGB and optical flow, please refer the codes [here](https://urldefense.com/v3/__https:/github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection/tree/master/Dataset_Preprocess__;!!OToaGQ!4Q1EdcJ_wHNXzz3LfNOZX64H4-wO7azcs5C1U_TM1VWDvDBvOS-guSo2NnxBnbyW7-a02kcNFA$).
+To preprocess the original video dataset to .npy format containing RGB and optical flow, please refer the codes [here](https://github.com/mchengny/RWF2000-Video-Database-for-Violence-Detection/blob/master/Preprocess/Video2Numpy.ipynb).
 
 
 
