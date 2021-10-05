@@ -80,7 +80,7 @@ To download the released dataset, please:
 
 1. download the *Agreement Sheet.pdf* and sign it. 
 2. Send the PDF version of scanned *Agreement Sheet* with signature to ming.cheng@dukekunshan.edu.cn
-3. We will return an e-mail with download link to you as soon as possible.
+3. We will send an e-mail with download link to you as soon as possible.
 
  
 
@@ -99,7 +99,8 @@ Kindly remind: using the proposed dataset, please cite:
 
 ### Note
 
-Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set and test set to avoid the data leakage between different parts. We suggest you to keep the original partition and only separate a validation set from the train set, but do not re-shuffle the entire dataset.
+- Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set and test set to avoid the data leakage between different parts. We suggest you to keep the original partition and only separate a validation set from the train set, but do not re-shuffle the entire dataset.
+- The data is compressed into separate blocks. Please put all the files under the same folder, and then de-compress the first on e. All the data will be de-compressed automatically.
 
 
 
