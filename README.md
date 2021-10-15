@@ -100,7 +100,9 @@ Kindly remind: using the proposed dataset, please cite:
 ### Note
 
 - Since the dataset contains 2,000 video clips extracted from about 1,000 unique videos, we have manually checked the train set and test set to avoid the data leakage between different parts. We suggest you to keep the original partition and only separate a validation set from the train set, but do not re-shuffle the entire dataset.
-- The data is compressed into separate blocks. Please put all the files under the same folder, and then de-compress the first on e. All the data will be de-compressed automatically.
+- The data is compressed into separate blocks. You need to decompress it by following ways:
+  - Windows PC:  put all the files under the same folder, and then de-compress the first on e. All the data will be de-compressed automatically. (7Zip.exe is recommended for the compression tool)
+  - Linux: concatenate the separate file blocks together, and then use unzip to decompress it.  
 
 
 
