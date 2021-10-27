@@ -88,7 +88,7 @@ Kindly remind: using the proposed dataset, please cite:
 
 ```
 @inproceedings{cheng2021rwf,
-  title={RWF-2000: an open large scale video database for violence detection},
+  title={Rwf-2000: An open large scale video database for violence detection},
   author={Cheng, Ming and Cai, Kunjing and Li, Ming},
   booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
   pages={4183--4190},
