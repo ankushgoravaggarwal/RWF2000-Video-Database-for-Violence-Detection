@@ -78,7 +78,7 @@ Since all the videos are captured by surveillance cameras in public places, many
 
 To download the released dataset, please:
 
-1. download the *Agreement Sheet.pdf* and sign it. 
+1. download the *Agreement Sheet.pdf* (attached in this Repo) and sign it. 
 2. Send the PDF version of scanned *Agreement Sheet* with signature to ming.cheng@dukekunshan.edu.cn
 3. We will send an e-mail with download link to you as soon as possible.
 
